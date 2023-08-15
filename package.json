@@ -15,6 +15,10 @@
     "slick-carousel": "^1.8.1",
     "web-vitals": "^1.1.2"
   },
+  "engines":{
+    "node": "16.x",
+    "npm": ">=6.0.0"
+  }
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts build",
